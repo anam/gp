@@ -1,0 +1,23 @@
+﻿.invisible
+{
+    display:none;
+}
+
+.buttonCss
+{
+    background-color: #115089;
+    border: 0 none;
+    border-radius: 3px 3px 3px 3px;
+    color: #FFFFFF;
+    font-weight: bold;
+    margin-top: 5px;
+    padding: 5px;
+    text-align: center;
+}
+    
+.buttonCss:hover
+{
+    color:White;
+}
+.tblJournalDetails a{color:Blue;text-decoration:underline;}
+.tblJournalDetails a:hover{color:Blue;}
